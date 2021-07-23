@@ -1,1 +1,3 @@
-# Les-media-queries-par-Eliane-Sadron
+# Les medias queries par Eliane Sadron
+
+> Excusez-la 😝
